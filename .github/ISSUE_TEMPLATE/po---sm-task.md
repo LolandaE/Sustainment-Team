@@ -1,7 +1,7 @@
 ---
-name: Dev Task
-about: Work that one or more Developers needs to complete that isn't related to a
-  specific digital service
+name: PO / SM Task
+about: Work the PO and/or SM needs to complete that isn't related to a specific digital
+  service
 title: ''
 labels: PO Task, SM Task
 assignees: ''
